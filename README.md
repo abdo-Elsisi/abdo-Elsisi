@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdo-Elsisi
 - 👀 I’m interested in Networking, DevOps and Web development
-- 🌱 I’m currently learning the MERN Stack.
+- 🌱 I’m currently learning about fullStack Development.
 - 💞️ I’m looking to collaborate on front-end and network automation projects
 - 📫 How to reach me abdelrahman.m.elsisi@gmail.com
 
